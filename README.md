@@ -1,2 +1,7 @@
 # ecommerce_all
-Ecommerce project with 3rd party integration, JDBC JPA connections, Redis, Payment service
+
+Ecommerce project with multiple microservices for :
+3rd party APIs integration, 
+JDBC JPA connections, 
+Redis caching, 
+Payment service
